@@ -15,4 +15,4 @@ while visina>0 : #početak petlje iscrtavanja piramide
     print(visina," "* uvlaka, znak*broj, " ", znak*broj) #ispis piramide
     visina = visina -1 #smanji visinu
     uvlaka = uvlaka-1 #smanji uvlaku
-    broj=broj+1 #povečaj broj reda
+    broj=broj+1 #povećaj broj reda
